@@ -1,6 +1,5 @@
-Robust-server-structure-Static-data-practice
-
 Robust server structure: Static data practice
+
 Your task is to build an API server for users and states. It should handle the following routes:
 
 /users returns an array of users in the form { data: Array }.
